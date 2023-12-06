@@ -1,0 +1,112 @@
+
+.imgs{
+  display: inline-flex;
+}
+.img1{
+  width:auto;
+  height: 140px;
+  display:flex;
+  border: solid black;
+}
+.img2{
+  width:auto;
+  height: 140px;
+  display:flex;
+  border: solid black;
+}
+.img3{
+  width:auto;
+  height: 140px;
+  display:flex;
+  border: solid black;
+}
+.img4{
+  width:auto;
+  height: 140px;
+  display:flex;
+  border: solid black;
+}
+body{
+  margin: 20px;
+  background-color: black;
+  cursor: pointer;
+  
+}
+#netflix{
+  color: red;
+  font-family: 'Netflix Sans';
+  text-decoration: none;
+  
+}
+ul{
+  color: white;
+  display: flex;
+  font-size: small;
+}
+li{
+  list-style-type: none;
+  padding: 7px;
+}
+#item-1{
+  color: red;
+  margin-right: 12px;
+  font-size: larger;
+
+}
+#item-2{
+  margin-left: 30px;
+  margin-top: 3px;
+}
+#item-3{
+  margin-left: 30px;
+  margin-top: 3px;
+}#item-4{
+ 
+  margin-top: 3px;
+}#item-5{
+ 
+  margin-top: 3px;
+}#item-6{
+ 
+  margin-top: 3px;
+}#item-7{
+  
+  margin-top: 3px;
+}
+.search{
+  height: 20px;
+  width: 20px;
+  display: flex;
+  margin-left: 50px;
+}
+#item-8{
+color: rgb(251, 250, 250);
+margin-left: 350px;
+font-size: small;
+}
+#item-9{
+margin-left:25px;
+font-size: small;
+}
+.bell{
+height: 20px;
+width: 20px;
+display: flex;
+}
+h3{
+color: white;
+font-family:Arial, Helvetica, sans-serif;
+font-size: larger;
+}
+.wtch
+{
+
+margin-top: 1000%;
+margin-right: 500%;
+
+}
+
+.wtc{
+  left: 400px;
+}
+
